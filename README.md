@@ -1,2 +1,2 @@
 # devops-project
-My devops journey
+Documenting my devops projects 
